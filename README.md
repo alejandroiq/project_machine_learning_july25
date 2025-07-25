@@ -1,2 +1,12 @@
-# project_machine_learning_july25
-ML Examples including Neural Network, Tensor Flow and Time Series Analysis
+ML Examples
+
+A compact collection of machine learning examples using:
+
+- ✅ Neural Networks (TensorFlow & Keras)
+- ✅ Classification and Regression with MLPs
+- ✅ Time Series Forecasting
+
+Projects are based on real-world datasets and demonstrate end-to-end modeling — from preprocessing to evaluation.
+
+> Designed for quick learning, experimentation, and reference.
+> by Alejandro Silva
